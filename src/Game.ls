@@ -2,6 +2,7 @@ package
 {
 //my version
 //update some more
+//change from karnuva
     import cocos2d.Cocos2DGame;
     import cocos2d.Cocos2D;
     import cocos2d.CCSprite;
