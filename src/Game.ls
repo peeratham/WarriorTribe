@@ -1,6 +1,6 @@
 package
 {
-//title version
+//my version
     import cocos2d.Cocos2DGame;
     import cocos2d.Cocos2D;
     import cocos2d.CCSprite;
